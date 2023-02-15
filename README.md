@@ -1,3 +1,5 @@
+This app demonstrates a SwiftUI bug (crash) that occurs in macOS, but not iPadOS.
+
 To reproduce:
 
 1. Run the app targeting macOS.
